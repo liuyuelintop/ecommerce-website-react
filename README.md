@@ -1,10 +1,12 @@
 # E-Commerce Web Application
 
-This project is a React-based e-commerce web application that features product browsing, a shopping cart, and state management via context to provide a seamless shopping experience.
-
 ## Overview
 
-The application is designed to showcase a range of products divided across various categories, allowing users to add items to their cart and manage their purchases. The frontend interface is user-friendly and responsive, ensuring a smooth user interaction on both desktop and mobile devices.
+This project is a React-based e-commerce web application that features product browsing, a shopping cart, and state management via context to provide a seamless shopping experience.
+
+## Deployment
+
+[https://liuyuelintop.github.io/ecommerce-website-react/](https://liuyuelintop.github.io/ecommerce-website-react/)
 
 ## Features
 
